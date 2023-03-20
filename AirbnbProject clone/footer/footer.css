@@ -1,0 +1,85 @@
+*{ 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+        font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+        background-color: #ffff;
+        
+
+}
+.mainFooter {
+    height:300px;
+    width: 100%;
+     border: 2px solid #f5f4f4;
+    padding: 45px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px  #ffff;
+        
+}
+
+.mainFooter .footer{
+    
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+  
+}
+.mainFooter .footer .first{
+  
+    line-height: 30px;
+}
+.mainFooter .footer .first ul li{
+  list-style: none;
+}
+.footer .first ul li a{
+    text-decoration: none;
+    color: black;
+}
+.mainFooter .footer .first ul li a:hover{
+    text-decoration: underline;
+}
+.mainFooter .footer .second{
+
+    line-height: 30px;
+}
+.footer .second ul li{
+  list-style: none;
+}
+.mainFooter .footer .second ul li a{
+    text-decoration: none;
+    color: black;
+}
+.mainFooter .footer .second ul li a:hover{
+    text-decoration: underline;
+}
+.mainFooter .footer .third{
+
+    line-height: 30px;
+}
+.mainFooter .footer .third ul li{
+  list-style: none;
+}
+.mainFooter .footer .third ul li a{
+    text-decoration: none;
+    color: black;
+}
+.mainFooter .footer .third ul li a:hover{
+    text-decoration: underline;
+}
+.mainFooter .footer .fourth{
+    
+    line-height: 30px;
+}
+.mainFooter .footer .fourth ul li{
+  list-style: none;
+}
+.mainFooter .footer .fourth ul li a{
+    text-decoration: none;
+    color: black;
+    
+}
+.mainFooter .footer .fourth ul li a:hover{
+    text-decoration: underline;
+}
